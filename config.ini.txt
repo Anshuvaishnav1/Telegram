@@ -1,0 +1,4 @@
+[Telegram]
+api_id = 2004793
+api_hash = ccf2ff5e4d22e084fce49aeb43a61adc
+username = Gena Bukin
